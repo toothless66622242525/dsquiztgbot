@@ -22,10 +22,9 @@ A sophisticated and interactive Telegram bot designed to help users learn and te
 Follow these steps to get the bot running locally.
 
 1. Clone the repository
-
 ```bash
-git clone https://github.com/YOUR-NICKNAME/YOUR-REPRISITORY.git
-cd YOUR-REPRISITORY
+git clone https://github.com/toothless66622242525/dsquizbot.git
+cd dsquizbot
 
 2. Create and activate a virtual environment
 This is a recommended practice to keep project dependencies isolated.
