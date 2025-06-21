@@ -7,7 +7,7 @@ A sophisticated and interactive Telegram bot designed to help users learn and te
 - Interactive Quiz: Start a quiz with `/quiz` featuring multiple-choice questions on various Data Science topics.
 - Scoring System: The bot tracks your score during a quiz session using a Finite State Machine (FSM) and shows your stats when you finish.
 - Knowledge Base: Use the `/define <term>` command to get clear and concise definitions of common Data Science terms.
-- Fun Facts: Get a random interesting fact about data, machine learning, or statistics with the `/fact` command.
+- Facts: Get a random interesting fact about data, machine learning, or statistics with the `/fact` command.
 - State-of-the-art UX: Smoothly edits messages for a seamless quiz experience without spamming the chat.
 
 🛠️ Technologies Used
